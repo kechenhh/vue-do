@@ -1,7 +1,15 @@
 <template>
-  <div class="home"></div>
+  <div class="home">555</div>
 </template>
 
 <script>
-export default {};
+export default {
+  data() {
+    return {};
+  },
+  methods: {},
+};
 </script>
+
+
+
