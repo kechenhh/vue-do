@@ -10,7 +10,7 @@ import { default } from './views/demo3/demo3-1.vue';
       <router-link to="/demo4">拖拽</router-link> |
       <router-link to="/demo5">新手引导</router-link> |
       <router-link to="/demo6">echarts</router-link> |
-      <router-link to="/demo7">异步级联选择</router-link> |
+      <router-link to="/demo7">打印</router-link> |
       <router-link to="/demo8">PDF渲染</router-link> |
     </nav>
     <router-view />
